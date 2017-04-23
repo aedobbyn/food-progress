@@ -5,3 +5,10 @@
 .DS_Store
 .Rproj.user
 accessdb.sql
+
+
+abbrev_scratchpad.R	
+nutrient_list.R
+plot.R
+connect.R		
+send_requests.R
