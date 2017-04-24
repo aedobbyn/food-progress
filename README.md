@@ -1,11 +1,7 @@
 # Menu Builder
 
-Various forays into 
+Various forays into daily menu planning and optimization using the [USDA food database](https://ndb.nal.usda.gov/ndb/doc/index)
 
-## Workflow
-* Scrape certain parts of the page using CSS selectors
-  * Scrape a table and use it to create some visualizations of GDP data 
-  * Scrape all of the text on the page and create word frequency wordclouds to see what words are mentioned most often on the page  
 
 ## Main Files
 * `menu_builder.R` 
